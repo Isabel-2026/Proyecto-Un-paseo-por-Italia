@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505213509YYL5N4</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505213509AKTS54</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA Un paseo por Italia</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778009126126</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>7b5d29d9-8912-4509-bc01-855ac8474829</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SdA Un paseo por Italia</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SdA Un paseo por Italia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SdA Un paseo por Italia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SdA Un paseo por Italia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>7b5d29d9-8912-4509-bc01-855ac8474829</odePageId>
+      <odeBlockId>block-1777998645533-e1ypx0en6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>7b5d29d9-8912-4509-bc01-855ac8474829</odePageId>
+          <odeBlockId>block-1777998645533-e1ypx0en6</odeBlockId>
+          <odeIdeviceId>idevice-1777998645527-lanvr8424</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Dark Red and Beige Playful Illustrative Italy Travel Presentation.png" title="Un paseo por Italia-Imagen Canva" width="1360" height="765" alt="Un paseo por Italia-Imagen Canva" /></p>
+<p>La Situación de Aprendizaje Un paseo por Italia está dirigida al alumnado del tercer ciclo de Primaria y se desarrolla durante la Semana Intercultural. El proyecto busca que el alumnado explore la cultura italiana investigando geografía básica, símbolos nacionales, gastronomía, festividades, personajes históricos, arte, monumentos y literatura mientras trabaja competencias de búsqueda, síntesis y comunicación.</p>
+<p>A lo largo de seis sesiones, el alumnado crea materiales, participa en talleres y elabora un cuadernillo informativo. Se apoya en metodologías inclusivas (DUA), fomenta el trabajo cooperativo y termina con un producto final que consiste en una presentación mediante Canva sobre la Semana Intercultural.</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777998645527-lanvr8424","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Dark Red and Beige Playful Illustrative Italy Travel Presentation.png\" title=\"Un paseo por Italia-Imagen Canva\" width=\"1360\" height=\"765\" alt=\"Un paseo por Italia-Imagen Canva\" /></p>\n<p>La Situación de Aprendizaje Un paseo por Italia está dirigida al alumnado del tercer ciclo de Primaria y se desarrolla durante la Semana Intercultural. El proyecto busca que el alumnado explore la cultura italiana investigando geografía básica, símbolos nacionales, gastronomía, festividades, personajes históricos, arte, monumentos y literatura mientras trabaja competencias de búsqueda, síntesis y comunicación.</p>\n<p>A lo largo de seis sesiones, el alumnado crea materiales, participa en talleres y elabora un cuadernillo informativo. Se apoya en metodologías inclusivas (DUA), fomenta el trabajo cooperativo y termina con un producto final que consiste en una presentación mediante Canva sobre la Semana Intercultural.</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777993935072-4i9c2ofqj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777993935072-4i9c2ofqj</odePageId>
+      <odeBlockId>block-1777994116058-kfym5i5oh</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777993935072-4i9c2ofqj</odePageId>
+          <odeBlockId>block-1777994116058-kfym5i5oh</odeBlockId>
+          <odeIdeviceId>idevice-1777994116055-0uilen9vp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Comenzamos nuestro proyecto SDA Un paseo por Italia.png" title="Descripción y justificación de la SdA" width="1360" height="1924" alt="Descripción y justificación de la SdA" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777994116055-0uilen9vp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Comenzamos nuestro proyecto SDA Un paseo por Italia.png\" title=\"Descripción y justificación de la SdA\" width=\"1360\" height=\"1924\" alt=\"Descripción y justificación de la SdA\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777994007641-o4yq1x0cf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777994007641-o4yq1x0cf</odePageId>
+      <odeBlockId>block-1777994914201-afuiru5g4</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777994007641-o4yq1x0cf</odePageId>
+          <odeBlockId>block-1777994914201-afuiru5g4</odeBlockId>
+          <odeIdeviceId>idevice-1777994914198-todw0uq38</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Copia de Copia de Infografía decálogo pasos a seguir con íconos en 3D fondo morado elementos multicolor (1).png" title="Infografía sobre la protección de datos" width="800" height="2000" alt="Protección de datos personales y garantía de derechos digitales" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777994914198-todw0uq38","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Copia de Copia de Infografía decálogo pasos a seguir con íconos en 3D fondo morado elementos multicolor (1).png\" title=\"Infografía sobre la protección de datos\" width=\"800\" height=\"2000\" alt=\"Protección de datos personales y garantía de derechos digitales\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777994027679-75qzkp5z3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777994027679-75qzkp5z3</odePageId>
+      <odeBlockId>block-1777995384145-c1nxxpocy</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777994027679-75qzkp5z3</odePageId>
+          <odeBlockId>block-1777995384145-c1nxxpocy</odeBlockId>
+          <odeIdeviceId>idevice-1777995384141-srr5snx81</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el producto final, el alumnado utilizará como herramienta digital Canva con el objetivo crear un vídeo sobre la Semana Intercultural de Italia, integrando fotografías, pequeños clips grabados de las actividades, textos explicativos y música. </p>
+<p>Esta herramienta permite crear y editar vídeos de forma muy intuitiva y ofrece plantillas que facilitan el trabajo. Canva ofrece una interfaz muy accesible, plantillas, opciones guiadas que ayudan a estructurar el vídeo y un entorno seguro y escolarmente adecuado. Esto permite que el alumnado con distintos niveles de competencia digital pueda participar activamente y asumir roles dentro del grupo (guión, edición, locución, selección de imágenes).</p>
+<p>El alumnado de tercer ciclo ya está familiarizado con herramientas digitales como Google formularios, documentos, Kahoot, Quizizz o Canva. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995384141-srr5snx81","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el producto final, el alumnado utilizará como herramienta digital Canva con el objetivo crear un vídeo sobre la Semana Intercultural de Italia, integrando fotografías, pequeños clips grabados de las actividades, textos explicativos y música. </p>\n<p>Esta herramienta permite crear y editar vídeos de forma muy intuitiva y ofrece plantillas que facilitan el trabajo. Canva ofrece una interfaz muy accesible, plantillas, opciones guiadas que ayudan a estructurar el vídeo y un entorno seguro y escolarmente adecuado. Esto permite que el alumnado con distintos niveles de competencia digital pueda participar activamente y asumir roles dentro del grupo (guión, edición, locución, selección de imágenes).</p>\n<p>El alumnado de tercer ciclo ya está familiarizado con herramientas digitales como Google formularios, documentos, Kahoot, Quizizz o Canva. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777994054935-dqkrnnh88</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de contenido</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de contenido</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777994054935-dqkrnnh88</odePageId>
+      <odeBlockId>block-1777998140113-6edm5r1w2</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777994054935-dqkrnnh88</odePageId>
+          <odeBlockId>block-1777998140113-6edm5r1w2</odeBlockId>
+          <odeIdeviceId>idevice-1777998140111-lki6l2dou</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La curación de contenidos forma parte de la práctica docente, especialmente cuando se preparan proyectos como la Semana Intercultural de Italia con el alumnado. La forma en que se realiza la curación sigue los siguientes pasos:</p>
+<p><strong>1. Pensar qué necesita mi alumnado</strong><br />Antes de recopilar recursos, analizo qué necesitan realmente.<br />En este proyecto, el alumnado debe crear un vídeo final sobre Italia, así que requieren:</p>
+<p>-recursos culturales fiables y visuales<br />-tutoriales sencillos para editar vídeo<br />-ejemplos de productos finales<br />-materiales que les ayuden a organizar ideas (guiones, plantillas, roles)<br />-recursos accesibles para distintos niveles de competencia digital<br /></p>
+<p>Mi objetivo es que puedan trabajar con autonomía, pero también con seguridad y claridad.</p>
+<p><strong>2. Seleccionar y filtrar la información</strong></p>
+<p>La infografía del módulo 2 será la que utilice para que tengan en cuenta aspectos como:</p>
+<p>-Calidad y fiabilidad de la fuente<br />-Adecuación al nivel del alumnado<br />-Claridad visual y lenguaje accesible<br />-Ausencia de publicidad o contenido inapropiado<br />-Licencias abiertas cuando es posible</p>
+<p><br /><strong>3. Organizar la información</strong><br />Para evitar confusiones, organizo la curación en categorías:</p>
+<p>-Tutoriales de Canva para edición de vídeo<br />-Recursos culturales sobre Italia<br />-Materiales de apoyo (guiones, roles, consejos de grabación)<br />-Bancos de imágenes<br />-Música libre de derechos</p>
+<p><br /><strong>4. Compartir el contenido</strong><br />Una vez elaborada la curación, la comparto mediante:</p>
+<p>-Enlace en Classroom<br />-Código QR en el aula para acceso mediante tablets<br />-Explicación guiada en la biblioteca.<br /></p>
+<p>La idea es que puedan acceder a los recursos de forma autónoma, tanto en el aula como en casa si lo necesitan.</p>
+<p><strong>5. Medir los resultados</strong><br />Después de usar la curación:</p>
+<p>-Observo qué recursos han utilizado más<br />-Pregunto qué les ha resultado útil o difícil<br />-Reviso qué herramientas digitales conocen ellos <br />-Ajusto la selección para mejorarla en futuras actividades</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777998140111-lki6l2dou","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La curación de contenidos forma parte de la práctica docente, especialmente cuando se preparan proyectos como la Semana Intercultural de Italia con el alumnado. La forma en que se realiza la curación sigue los siguientes pasos:</p>\n<p><strong>1. Pensar qué necesita mi alumnado</strong><br />Antes de recopilar recursos, analizo qué necesitan realmente.<br />En este proyecto, el alumnado debe crear un vídeo final sobre Italia, así que requieren:</p>\n<p>-recursos culturales fiables y visuales<br />-tutoriales sencillos para editar vídeo<br />-ejemplos de productos finales<br />-materiales que les ayuden a organizar ideas (guiones, plantillas, roles)<br />-recursos accesibles para distintos niveles de competencia digital<br /></p>\n<p>Mi objetivo es que puedan trabajar con autonomía, pero también con seguridad y claridad.</p>\n<p><strong>2. Seleccionar y filtrar la información</strong></p>\n<p>La infografía del módulo 2 será la que utilice para que tengan en cuenta aspectos como:</p>\n<p>-Calidad y fiabilidad de la fuente<br />-Adecuación al nivel del alumnado<br />-Claridad visual y lenguaje accesible<br />-Ausencia de publicidad o contenido inapropiado<br />-Licencias abiertas cuando es posible</p>\n<p><br /><strong>3. Organizar la información</strong><br />Para evitar confusiones, organizo la curación en categorías:</p>\n<p>-Tutoriales de Canva para edición de vídeo<br />-Recursos culturales sobre Italia<br />-Materiales de apoyo (guiones, roles, consejos de grabación)<br />-Bancos de imágenes<br />-Música libre de derechos</p>\n<p><br /><strong>4. Compartir el contenido</strong><br />Una vez elaborada la curación, la comparto mediante:</p>\n<p>-Enlace en Classroom<br />-Código QR en el aula para acceso mediante tablets<br />-Explicación guiada en la biblioteca.<br /></p>\n<p>La idea es que puedan acceder a los recursos de forma autónoma, tanto en el aula como en casa si lo necesitan.</p>\n<p><strong>5. Medir los resultados</strong><br />Después de usar la curación:</p>\n<p>-Observo qué recursos han utilizado más<br />-Pregunto qué les ha resultado útil o difícil<br />-Reviso qué herramientas digitales conocen ellos <br />-Ajusto la selección para mejorarla en futuras actividades</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777997046958-yhwwf64wp</odePageId>
+  <odeParentPageId>page-1777994054935-dqkrnnh88</odeParentPageId>
+  <pageName>Padlet Un paseo por Italia</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Padlet Un paseo por Italia</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777997046958-yhwwf64wp</odePageId>
+      <odeBlockId>block-1777997946046-e2h4bo6h8</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777997046958-yhwwf64wp</odePageId>
+          <odeBlockId>block-1777997946046-e2h4bo6h8</odeBlockId>
+          <odeIdeviceId>idevice-1777997946042-9dr0vjgng</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://padlet.com/iferluc961/video-semana-intercultural-o9nusgpgos3m8to4" title="Padlet Un paseo por Italia">https://padlet.com/iferluc961/video-semana-intercultural-o9nusgpgos3m8to4</a></p>
+<p><img src="{{context_path}}/content/resources/Padlet proyecto Italia.png" width="1345" height="605" alt="Padlet Un paseo por Italia" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777997946042-9dr0vjgng","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://padlet.com/iferluc961/video-semana-intercultural-o9nusgpgos3m8to4\" title=\"Padlet Un paseo por Italia\">https://padlet.com/iferluc961/video-semana-intercultural-o9nusgpgos3m8to4</a></p>\n<p><img src=\"{{context_path}}/content/resources/Padlet proyecto Italia.png\" width=\"1345\" height=\"605\" alt=\"Padlet Un paseo por Italia\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777997072411-jb3p1qunp</odePageId>
+  <odeParentPageId>page-1777994054935-dqkrnnh88</odeParentPageId>
+  <pageName>Symbaloo para maestros</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Symbaloo para maestros</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777997072411-jb3p1qunp</odePageId>
+      <odeBlockId>block-1777998047803-ko7x9djca</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777997072411-jb3p1qunp</odePageId>
+          <odeBlockId>block-1777998047803-ko7x9djca</odeBlockId>
+          <odeIdeviceId>idevice-1777998047801-gubklzifr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/home/mix/13ePH26iZK" title="Symbaloo para maestros">https://www.symbaloo.com/home/mix/13ePH26iZK</a></p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 175956.png" width="1043" height="600" alt="Symbaloo para maestros" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777998047801-gubklzifr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/home/mix/13ePH26iZK\" title=\"Symbaloo para maestros\">https://www.symbaloo.com/home/mix/13ePH26iZK</a></p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 175956.png\" width=\"1043\" height=\"600\" alt=\"Symbaloo para maestros\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777994070775-6h3yqfbxd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777994070775-6h3yqfbxd</odePageId>
+      <odeBlockId>block-1777995876192-tuhr9hwhp</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777994070775-6h3yqfbxd</odePageId>
+          <odeBlockId>block-1777995876192-tuhr9hwhp</odeBlockId>
+          <odeIdeviceId>idevice-1777995876190-73f9xpp5m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/1.png" title="Secuencia de actividades" width="1360" height="765" alt="Secuenciación de actividades" /><img src="{{context_path}}/content/resources/2.png" title="Tareas" width="1360" height="765" alt="Descripción de las actividades" /><img src="{{context_path}}/content/resources/3.png" title="Actividades Pautas DUA" width="1360" height="765" alt="Actividades de atención a la diversidad" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995876190-73f9xpp5m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/1.png\" title=\"Secuencia de actividades\" width=\"1360\" height=\"765\" alt=\"Secuenciación de actividades\" /><img src=\"{{context_path}}/content/resources/2.png\" title=\"Tareas\" width=\"1360\" height=\"765\" alt=\"Descripción de las actividades\" /><img src=\"{{context_path}}/content/resources/3.png\" title=\"Actividades Pautas DUA\" width=\"1360\" height=\"765\" alt=\"Actividades de atención a la diversidad\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777994083487-kiktrxiaa</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777994083487-kiktrxiaa</odePageId>
+      <odeBlockId>block-1778001271196-j7joqsadd</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777994083487-kiktrxiaa</odePageId>
+          <odeBlockId>block-1778001271196-j7joqsadd</odeBlockId>
+          <odeIdeviceId>idevice-1778001271194-47fon1k33</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1YCsEQBrN1O8JzUNvoUs9meNPvhgWGCJ7Vr60T1sbkZ0/edit?tab=t.0#heading=h.v3kpl8zcktok" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777994105384-hr705phac</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777994105384-hr705phac</odePageId>
+      <odeBlockId>block-1778000072877-y1o8n2cma</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777994105384-hr705phac</odePageId>
+          <odeBlockId>block-1778000072877-y1o8n2cma</odeBlockId>
+          <odeIdeviceId>idevice-1778000072876-c11tww0ka</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La rúbrica y el portfolio son instrumentos de evaluación que permiten evaluar de forma clara y coherente las competencias y evidencias del progreso del alumnado. </p>
+<p>Como técnicas de evaluación la observación directa y sistemática y el análisis del proceso y de los resultados del alumnado ofrecen información continua sobre la participación, las estrategias y la calidad de las producciones, permitiendo una valoración completa y formativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778000072876-c11tww0ka","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La rúbrica y el portfolio son instrumentos de evaluación que permiten evaluar de forma clara y coherente las competencias y evidencias del progreso del alumnado. </p>\n<p>Como técnicas de evaluación la observación directa y sistemática y el análisis del proceso y de los resultados del alumnado ofrecen información continua sobre la participación, las estrategias y la calidad de las producciones, permitiendo una valoración completa y formativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777999762790-1oics6f7z</odePageId>
+  <odeParentPageId>page-1777994105384-hr705phac</odeParentPageId>
+  <pageName>Rúbrica de evaluación</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Rúbrica de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777999762790-1oics6f7z</odePageId>
+      <odeBlockId>block-1777999826641-wbk4gyxgh</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777999762790-1oics6f7z</odePageId>
+          <odeBlockId>block-1777999826641-wbk4gyxgh</odeBlockId>
+          <odeIdeviceId>idevice-1777999826638-psyxk7vwm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/1_1.png" width="1360" height="962" alt="Descripción de la rúbrica" /></p>
+<p><img src="{{context_path}}/content/resources/2_1.png" width="1360" height="962" alt="Detalle de la rúbrica" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777999826638-psyxk7vwm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/1_1.png\" width=\"1360\" height=\"962\" alt=\"Descripción de la rúbrica\" /></p>\n<p><img src=\"{{context_path}}/content/resources/2_1.png\" width=\"1360\" height=\"962\" alt=\"Detalle de la rúbrica\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777999773325-jr0je2slh</odePageId>
+  <odeParentPageId>page-1777994105384-hr705phac</odeParentPageId>
+  <pageName>Portfolio</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portfolio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777999773325-jr0je2slh</odePageId>
+      <odeBlockId>block-1777999890223-ohwfwdh6s</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777999773325-jr0je2slh</odePageId>
+          <odeBlockId>block-1777999890223-ohwfwdh6s</odeBlockId>
+          <odeIdeviceId>idevice-1777999890221-qdezdmgb9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/3_1.png" title="Características del portfolio" width="1360" height="962" alt="Características del portfolio" /></p>
+<p><img src="{{context_path}}/content/resources/4.png" title="Estructura del portfolio" width="1360" height="962" alt="Estructura del portfolio" /></p>
+<p><img src="{{context_path}}/content/resources/5.png" title="Procedimiento del portfolio" width="1360" height="962" alt="Procedimiento del portfolio" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777999890221-qdezdmgb9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/3_1.png\" title=\"Características del portfolio\" width=\"1360\" height=\"962\" alt=\"Características del portfolio\" /></p>\n<p><img src=\"{{context_path}}/content/resources/4.png\" title=\"Estructura del portfolio\" width=\"1360\" height=\"962\" alt=\"Estructura del portfolio\" /></p>\n<p><img src=\"{{context_path}}/content/resources/5.png\" title=\"Procedimiento del portfolio\" width=\"1360\" height=\"962\" alt=\"Procedimiento del portfolio\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778003306135-kmetx6xvi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778004367409-4wnw8uzet</odePageId>
+  <odeParentPageId>page-1778003306135-kmetx6xvi</odeParentPageId>
+  <pageName>Tareas asociadas a criterios de evaluación</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas asociadas a criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778004367409-4wnw8uzet</odePageId>
+      <odeBlockId>block-1778004411198-mbdy8t55i</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778004367409-4wnw8uzet</odePageId>
+          <odeBlockId>block-1778004411198-mbdy8t55i</odeBlockId>
+          <odeIdeviceId>idevice-1778004411196-1n2qbere9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table class="exe-table" style="width: 81.2874%; height: 229px;"><caption>Title</caption>
+<thead>
+<tr style="height: 65px;">
+<th style="width: 11.1416%; height: 65px;">TAREA</th>
+<th style="width: 17.6368%; height: 65px;">CRITERIO DE EVALUACIÓN</th>
+<th style="width: 9.62638%; height: 65px;">AGRUPAMIENTO</th>
+<th style="width: 11.9857%; height: 65px;">TIEMPO APROXIMADO</th>
+<th style="width: 49.6307%; height: 65px;">HERRAMIENTA </th>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 41px;">
+<td style="width: 11.1416%; height: 41px;">1. Identificación de mares y ciudades de Italia</td>
+<td style="width: 17.6368%; height: 41px;">CMN.5.1.a. Identificar y describir las características, la organización y las propiedades de los elementos del medio natural, social y cultural, a través de metodologías de indagación, utilizando las herramientas y procesos adecuados, comprendiendo y valorando su riqueza y diversidad. </td>
+<td style="width: 9.62638%; height: 41px;">Individual</td>
+<td style="width: 11.9857%; height: 41px;">1 sesión</td>
+<td style="width: 49.6307%; height: 41px;">
+<p>Google maps</p>
+<p>Alternativa: Crear mapa de Italia</p>
+<p><a href="https://www.mapchart.net/europe.html" title="Crear mapa de Italia">https://www.mapchart.net/europe.html</a></p>
+</td>
+</tr>
+<tr style="height: 41px;">
+<td style="width: 11.1416%; height: 41px;">2. Preguntas básicas de geografía (capital, continente, península, islas)</td>
+<td style="width: 17.6368%; height: 41px;">CMN.5.2.a. Establecer conexiones sencillas entre diferentes elementos del medio natural, social y cultural,  mostrando comprensión de las relaciones que se establecen, visibilizando los problemas que genera el uso del espacio y sus transformaciones, los cambios producidos por el ser humano y las distintas organizaciones sociales que se han desarrollado.</td>
+<td style="width: 9.62638%; height: 41px;">Individual</td>
+<td style="width: 11.9857%; height: 41px;">1 sesión</td>
+<td style="width: 49.6307%; height: 41px;">
+<p>Genially asociado a la actividad <a href="https://view.genially.com/6606d721e88e430013549adb" title="Genially sobre Italia">https://view.genially.com/6606d721e88e430013549adb</a></p>
+</td>
+</tr>
+<tr style="height: 41px;">
+<td style="width: 11.1416%; height: 41px;">3. Vida en la Antigua Roma</td>
+<td style="width: 17.6368%; height: 41px;">CMN.7.2.a. Conocer personas, grupos sociales relevantes y formas de vida de las sociedades de la Edad Media y la Edad Moderna, situándolas en ejes cronológicos e identificando rasgos significativos sociales en distintas épocas de la Historia.</td>
+<td style="width: 9.62638%; height: 41px;">Por parejas</td>
+<td style="width: 11.9857%; height: 41px;">1 sesión</td>
+<td style="width: 49.6307%; height: 41px;">
+<p>Vídeo Youtube asociado a la actividad</p>
+<p><a href="https://www.youtube.com/watch?v=ufEclRGXV6k&amp;t=5s">https://www.youtube.com/watch?v=ufEclRGXV6k&amp;t=5s</a></p>
+<p><br /></p>
+</td>
+</tr>
+<tr style="height: 41px;">
+<td style="width: 11.1416%; height: 41px;">4. Monumentos emblemáticos (Coliseo, Rialto, Pisa)</td>
+<td style="width: 17.6368%; height: 41px;">CMN.5.3.a. Valorar, proteger y mostrar actitudes de conservación y mejora del patrimonio natural y cultural,  a través de propuestas que reflejen compromisos y conductas en favor de la sostenibilidad.</td>
+<td style="width: 9.62638%; height: 41px;">Por parejas</td>
+<td style="width: 11.9857%; height: 41px;">1 sesión</td>
+<td style="width: 49.6307%; height: 41px;">
+<p>Vídeo Youtube asociado a la actividad <a href="Descubre Italia: Historia, Comida y Tradiciones para Niños | Educa Children" title="Descubre Italia">Descubre Italia: Historia, Comida y Tradiciones para Niños | Educa Children</a></p>
+<p><br /></p>
+</td>
+</tr>
+<tr>
+<td style="width: 11.1416%;">5. Origen del latín y lenguas romances</td>
+<td style="width: 17.6368%;">LCL.1.1.a. Mostrar interés y respeto por las distintas lenguas y variedades dialectales, incluidas las lenguas de signos, identificando algunos rasgos de los dialectos y lenguas familiares del alumnado.</td>
+<td style="width: 9.62638%;">Por parejas</td>
+<td style="width: 11.9857%;">1 sesión</td>
+<td style="width: 49.6307%;">
+<p>Imagen del cuadernillo</p>
+<p><a href="https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4/wish/lDK1ZRLOGoPNaJ9z">https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4/wish/lDK1ZRLOGoPNaJ9z</a></p>
+<p><br /></p>
+</td>
+</tr>
+<tr>
+<td style="width: 11.1416%;">6. Números romanos</td>
+<td style="width: 17.6368%;">MAT.6.1.a. Comenzar a interpretar el lenguaje matemático sencillo presente en la vida cotidiana en diferentes formatos, adquiriendo vocabulario apropiado, utilizando este lenguaje para expresar ideas matemáticas, mostrando comprensión del mensaje.</td>
+<td style="width: 9.62638%;">Individual</td>
+<td style="width: 11.9857%;">1 sesión</td>
+<td style="width: 49.6307%;">
+<p>Imagen del cuadernillo</p>
+<p>Tarea digital<a href="https://www.liveworksheets.com/es/worksheet/es/matematicas/1485706" title="Números romanos">https://www.liveworksheets.com/es/worksheet/es/matematicas/1485706</a></p>
+<p><br /></p>
+</td>
+</tr>
+<tr>
+<td style="width: 11.1416%;">7. Tradiciones italianas (Carnaval, Befana, Ferragosto, Ópera)</td>
+<td style="width: 17.6368%;">EA.1.1.a. Distinguir propuestas artísticas de diferentes géneros, estilos, épocas y culturas y especialmente las relacionadas con la cultura andaluza, a través de la recepción activa y mostrando curiosidad y respeto por las mismas</td>
+<td style="width: 9.62638%;">Por parejas</td>
+<td style="width: 11.9857%;">1 sesión</td>
+<td style="width: 49.6307%;">
+<p>Subir imágenes a Padlet</p>
+<p><a href="https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4">https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4</a></p>
+<p><br /></p>
+</td>
+</tr>
+<tr>
+<td style="width: 11.1416%;">8. Bailes tradicionales (tarantella, cordella, saltarello)</td>
+<td style="width: 17.6368%;">EA.1.2.a. Describir manifestaciones culturales y artísticas, incluidas las relacionadas con la cultura andaluza, explorando sus características con actitud abierta e interés, estableciendo relaciones entre ellas y valorando la diversidad que las genera.</td>
+<td style="width: 9.62638%;">Por parejas</td>
+<td style="width: 11.9857%;">1 sesión</td>
+<td style="width: 49.6307%;">
+<p>Subir imágenes a Padlet</p>
+<p><a href="https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4">https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4</a></p>
+<p><br /></p>
+</td>
+</tr>
+<tr>
+<td style="width: 11.1416%;">9. Gastronomía italiana</td>
+<td style="width: 17.6368%;">CMN.5.1.a. Identificar y describir las características, la organización y las propiedades de los elementos del medio natural, social y cultural, a través de metodologías de indagación, utilizando las herramientas y procesos adecuados, comprendiendo y valorando su riqueza y diversidad.</td>
+<td style="width: 9.62638%;">Por parejas</td>
+<td style="width: 11.9857%;">1 sesión</td>
+<td style="width: 49.6307%;">
+<p>Subir imágenes a Padlet <a href="https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4">https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4</a></p>
+<p><br /></p>
+</td>
+</tr>
+<tr>
+<td style="width: 11.1416%;">10. Retos matemáticos del Carnaval veneciano</td>
+<td style="width: 17.6368%;">MAT.8.1.a. Participar, colaborar y ayudar respetuosa y responsablemente en el trabajo individual o colectivo, implicandose en retos matemáticos propuestos, comunicándose de forma efectiva, valorando la diversidad, mostrando empatía y estableciendo relaciones saludables basadas en el respeto, la igualdad y la resolución pacífica de conflictos, mostrando autocontrol y comenzando a promover situaciones de convivencia coeducativa.</td>
+<td style="width: 9.62638%;">Individual</td>
+<td style="width: 11.9857%;">1 sesión</td>
+<td style="width: 49.6307%;">Dinámica: Liga de problemas. “Matematocas”</td>
+</tr>
+<tr>
+<td style="width: 11.1416%;">11. Línea del tiempo de juegos italianos</td>
+<td style="width: 17.6368%;">CMN.7.1.a. Analizar relaciones de causalidad, simultaneidad y sucesión entre diferentes elementos del medio social y cultural de la Edad Media y la Edad Moderna, situando hechos en ejes cronológicos, para adoptar una actitud objetiva y analítica con respecto a la actualidad y para asumir un compromiso responsable y consciente con respecto a los retos del futuro.</td>
+<td style="width: 9.62638%;">Grupos de 3</td>
+<td style="width: 11.9857%;">1 sesión</td>
+<td style="width: 49.6307%;">
+<p>Crear línea del tiempo con Genially</p>
+<p><a href="https://genially.com/es/crear/linea-de-tiempo/">https://genially.com/es/crear/linea-de-tiempo/</a></p>
+<p><br /></p>
+</td>
+</tr>
+<tr>
+<td style="width: 11.1416%;">12. Instrumentos musicales italianos</td>
+<td style="width: 17.6368%;">EA.1.1.a. Distinguir propuestas artísticas de diferentes géneros, estilos, épocas y culturas y especialmente las relacionadas con la cultura andaluza, a través de la recepción activa y mostrando curiosidad y respeto por las mismas.</td>
+<td style="width: 9.62638%;">Individual</td>
+<td style="width: 11.9857%;">1 sesión</td>
+<td style="width: 49.6307%;">
+<p>Cuadernillo</p>
+<p><a href="https://drive.google.com/drive/folders/1EUs1rfuoZfhLOnblRbET0rCtEek0Fa21">https://drive.google.com/drive/folders/1EUs1rfuoZfhLOnblRbET0rCtEek0Fa21</a></p>
+<p><br /></p>
+</td>
+</tr>
+<tr>
+<td style="width: 11.1416%;">13. Monedas romanas</td>
+<td style="width: 17.6368%;">EA.3.2.a. Producir algunas propuestas para expresar con creatividad ideas, sentimientos y emociones a través de diversas manifestaciones artísticas, utilizando los diferentes lenguajes e instrumentos a su alcance, mostrando confianza en las propias capacidades y perfeccionando la ejecución.</td>
+<td style="width: 9.62638%;">Individual</td>
+<td style="width: 11.9857%;">1 sesión</td>
+<td style="width: 49.6307%;">
+<p>Emocionario de aula</p>
+<p><a href="https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4/wish/R7dXadNlx31jZ6bl">https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4/wish/R7dXadNlx31jZ6bl</a></p>
+<p><br /></p>
+</td>
+</tr>
+<tr>
+<td style="width: 11.1416%;">14. Teatro de títeres de Pinocho</td>
+<td style="width: 17.6368%;">EA.4.1.a. Planificar y diseñar, de manera guiada, producciones culturales y artísticas colectivas, trabajando de forma cooperativa en la consecución de un resultado final y asumiendo diferentes funciones, desde la igualdad y el respeto a la diversidad.</td>
+<td style="width: 9.62638%;">Individual</td>
+<td style="width: 11.9857%;">1 sesión</td>
+<td style="width: 49.6307%;">
+<p>Recortables del cuadernillo</p>
+<p><a href="https://drive.google.com/drive/folders/1EUs1rfuoZfhLOnblRbET0rCtEek0Fa21">https://drive.google.com/drive/folders/1EUs1rfuoZfhLOnblRbET0rCtEek0Fa21</a></p>
+<p><br /></p>
+</td>
+</tr>
+<tr>
+<td style="width: 11.1416%;">15. Vocabulario básico italiano</td>
+<td style="width: 17.6368%;">CMN.1.1.a. Utilizar recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura y adecuada, buscando información, comunicándose y trabajando de forma individual y en equipo, comenzando a realizar actividades en red, creando contenidos digitales sencillos, interpretando y organizando la información y aumentando la productividad y eficiencia en el propio trabajo. </td>
+<td style="width: 9.62638%;">Por parejas</td>
+<td style="width: 11.9857%;">1 sesión</td>
+<td style="width: 49.6307%;">
+<p>Quizlet</p>
+<p><a href="https://quizlet.com/es/features/live">https://quizlet.com/es/features/live</a></p>
+<p><br /></p>
+</td>
+</tr>
+<tr>
+<td style="width: 11.1416%;">16. Comprensión lectora: Rómulo y Remo</td>
+<td style="width: 17.6368%;">LCL.2.1.a. Comprender el sentido de textos orales y multimodales sencillos, reconociendo las ideas principales y los mensajes explícitos e implícitos, valorando con cierta autonomía su contenido y los elementos no verbales elementales y, de manera acompañada, algunos elementos formales elementales.</td>
+<td style="width: 9.62638%;">Por parejas</td>
+<td style="width: 11.9857%;">1 sesión</td>
+<td style="width: 49.6307%;">
+<p>Canva</p>
+<p>Imagen del cómic </p>
+<p><a href="https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4">https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4</a></p>
+<p><br /></p>
+</td>
+</tr>
+<tr>
+<td style="width: 11.1416%;">17. Cómic de Pinocho</td>
+<td style="width: 17.6368%;">LCL.3.1.a. Producir textos orales y multimodales de manera progresivamente autónoma, coherente y fluida, en contextos formales sencillos y utilizando correctamente recursos verbales y no verbales básicos.</td>
+<td style="width: 9.62638%;">Por parejas</td>
+<td style="width: 11.9857%;">1 sesión</td>
+<td style="width: 49.6307%;">
+<p>Canva</p>
+<p>Imagen del cómic </p>
+<p>https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778004411196-1n2qbere9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table class=\"exe-table\" style=\"width: 81.2874%; height: 229px;\"><caption>Title</caption>\n<thead>\n<tr style=\"height: 65px;\">\n<th style=\"width: 11.1416%; height: 65px;\">TAREA</th>\n<th style=\"width: 17.6368%; height: 65px;\">CRITERIO DE EVALUACIÓN</th>\n<th style=\"width: 9.62638%; height: 65px;\">AGRUPAMIENTO</th>\n<th style=\"width: 11.9857%; height: 65px;\">TIEMPO APROXIMADO</th>\n<th style=\"width: 49.6307%; height: 65px;\">HERRAMIENTA </th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"height: 41px;\">\n<td style=\"width: 11.1416%; height: 41px;\">1. Identificación de mares y ciudades de Italia</td>\n<td style=\"width: 17.6368%; height: 41px;\">CMN.5.1.a. Identificar y describir las características, la organización y las propiedades de los elementos del medio natural, social y cultural, a través de metodologías de indagación, utilizando las herramientas y procesos adecuados, comprendiendo y valorando su riqueza y diversidad. </td>\n<td style=\"width: 9.62638%; height: 41px;\">Individual</td>\n<td style=\"width: 11.9857%; height: 41px;\">1 sesión</td>\n<td style=\"width: 49.6307%; height: 41px;\">\n<p>Google maps</p>\n<p>Alternativa: Crear mapa de Italia</p>\n<p><a href=\"https://www.mapchart.net/europe.html\" title=\"Crear mapa de Italia\">https://www.mapchart.net/europe.html</a></p>\n</td>\n</tr>\n<tr style=\"height: 41px;\">\n<td style=\"width: 11.1416%; height: 41px;\">2. Preguntas básicas de geografía (capital, continente, península, islas)</td>\n<td style=\"width: 17.6368%; height: 41px;\">CMN.5.2.a. Establecer conexiones sencillas entre diferentes elementos del medio natural, social y cultural,  mostrando comprensión de las relaciones que se establecen, visibilizando los problemas que genera el uso del espacio y sus transformaciones, los cambios producidos por el ser humano y las distintas organizaciones sociales que se han desarrollado.</td>\n<td style=\"width: 9.62638%; height: 41px;\">Individual</td>\n<td style=\"width: 11.9857%; height: 41px;\">1 sesión</td>\n<td style=\"width: 49.6307%; height: 41px;\">\n<p>Genially asociado a la actividad <a href=\"https://view.genially.com/6606d721e88e430013549adb\" title=\"Genially sobre Italia\">https://view.genially.com/6606d721e88e430013549adb</a></p>\n</td>\n</tr>\n<tr style=\"height: 41px;\">\n<td style=\"width: 11.1416%; height: 41px;\">3. Vida en la Antigua Roma</td>\n<td style=\"width: 17.6368%; height: 41px;\">CMN.7.2.a. Conocer personas, grupos sociales relevantes y formas de vida de las sociedades de la Edad Media y la Edad Moderna, situándolas en ejes cronológicos e identificando rasgos significativos sociales en distintas épocas de la Historia.</td>\n<td style=\"width: 9.62638%; height: 41px;\">Por parejas</td>\n<td style=\"width: 11.9857%; height: 41px;\">1 sesión</td>\n<td style=\"width: 49.6307%; height: 41px;\">\n<p>Vídeo Youtube asociado a la actividad</p>\n<p><a href=\"https://www.youtube.com/watch?v=ufEclRGXV6k&amp;t=5s\">https://www.youtube.com/watch?v=ufEclRGXV6k&amp;t=5s</a></p>\n<p><br /></p>\n</td>\n</tr>\n<tr style=\"height: 41px;\">\n<td style=\"width: 11.1416%; height: 41px;\">4. Monumentos emblemáticos (Coliseo, Rialto, Pisa)</td>\n<td style=\"width: 17.6368%; height: 41px;\">CMN.5.3.a. Valorar, proteger y mostrar actitudes de conservación y mejora del patrimonio natural y cultural,  a través de propuestas que reflejen compromisos y conductas en favor de la sostenibilidad.</td>\n<td style=\"width: 9.62638%; height: 41px;\">Por parejas</td>\n<td style=\"width: 11.9857%; height: 41px;\">1 sesión</td>\n<td style=\"width: 49.6307%; height: 41px;\">\n<p>Vídeo Youtube asociado a la actividad <a href=\"Descubre Italia: Historia, Comida y Tradiciones para Niños | Educa Children\" title=\"Descubre Italia\">Descubre Italia: Historia, Comida y Tradiciones para Niños | Educa Children</a></p>\n<p><br /></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 11.1416%;\">5. Origen del latín y lenguas romances</td>\n<td style=\"width: 17.6368%;\">LCL.1.1.a. Mostrar interés y respeto por las distintas lenguas y variedades dialectales, incluidas las lenguas de signos, identificando algunos rasgos de los dialectos y lenguas familiares del alumnado.</td>\n<td style=\"width: 9.62638%;\">Por parejas</td>\n<td style=\"width: 11.9857%;\">1 sesión</td>\n<td style=\"width: 49.6307%;\">\n<p>Imagen del cuadernillo</p>\n<p><a href=\"https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4/wish/lDK1ZRLOGoPNaJ9z\">https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4/wish/lDK1ZRLOGoPNaJ9z</a></p>\n<p><br /></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 11.1416%;\">6. Números romanos</td>\n<td style=\"width: 17.6368%;\">MAT.6.1.a. Comenzar a interpretar el lenguaje matemático sencillo presente en la vida cotidiana en diferentes formatos, adquiriendo vocabulario apropiado, utilizando este lenguaje para expresar ideas matemáticas, mostrando comprensión del mensaje.</td>\n<td style=\"width: 9.62638%;\">Individual</td>\n<td style=\"width: 11.9857%;\">1 sesión</td>\n<td style=\"width: 49.6307%;\">\n<p>Imagen del cuadernillo</p>\n<p>Tarea digital<a href=\"https://www.liveworksheets.com/es/worksheet/es/matematicas/1485706\" title=\"Números romanos\">https://www.liveworksheets.com/es/worksheet/es/matematicas/1485706</a></p>\n<p><br /></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 11.1416%;\">7. Tradiciones italianas (Carnaval, Befana, Ferragosto, Ópera)</td>\n<td style=\"width: 17.6368%;\">EA.1.1.a. Distinguir propuestas artísticas de diferentes géneros, estilos, épocas y culturas y especialmente las relacionadas con la cultura andaluza, a través de la recepción activa y mostrando curiosidad y respeto por las mismas</td>\n<td style=\"width: 9.62638%;\">Por parejas</td>\n<td style=\"width: 11.9857%;\">1 sesión</td>\n<td style=\"width: 49.6307%;\">\n<p>Subir imágenes a Padlet</p>\n<p><a href=\"https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4\">https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4</a></p>\n<p><br /></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 11.1416%;\">8. Bailes tradicionales (tarantella, cordella, saltarello)</td>\n<td style=\"width: 17.6368%;\">EA.1.2.a. Describir manifestaciones culturales y artísticas, incluidas las relacionadas con la cultura andaluza, explorando sus características con actitud abierta e interés, estableciendo relaciones entre ellas y valorando la diversidad que las genera.</td>\n<td style=\"width: 9.62638%;\">Por parejas</td>\n<td style=\"width: 11.9857%;\">1 sesión</td>\n<td style=\"width: 49.6307%;\">\n<p>Subir imágenes a Padlet</p>\n<p><a href=\"https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4\">https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4</a></p>\n<p><br /></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 11.1416%;\">9. Gastronomía italiana</td>\n<td style=\"width: 17.6368%;\">CMN.5.1.a. Identificar y describir las características, la organización y las propiedades de los elementos del medio natural, social y cultural, a través de metodologías de indagación, utilizando las herramientas y procesos adecuados, comprendiendo y valorando su riqueza y diversidad.</td>\n<td style=\"width: 9.62638%;\">Por parejas</td>\n<td style=\"width: 11.9857%;\">1 sesión</td>\n<td style=\"width: 49.6307%;\">\n<p>Subir imágenes a Padlet <a href=\"https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4\">https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4</a></p>\n<p><br /></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 11.1416%;\">10. Retos matemáticos del Carnaval veneciano</td>\n<td style=\"width: 17.6368%;\">MAT.8.1.a. Participar, colaborar y ayudar respetuosa y responsablemente en el trabajo individual o colectivo, implicandose en retos matemáticos propuestos, comunicándose de forma efectiva, valorando la diversidad, mostrando empatía y estableciendo relaciones saludables basadas en el respeto, la igualdad y la resolución pacífica de conflictos, mostrando autocontrol y comenzando a promover situaciones de convivencia coeducativa.</td>\n<td style=\"width: 9.62638%;\">Individual</td>\n<td style=\"width: 11.9857%;\">1 sesión</td>\n<td style=\"width: 49.6307%;\">Dinámica: Liga de problemas. “Matematocas”</td>\n</tr>\n<tr>\n<td style=\"width: 11.1416%;\">11. Línea del tiempo de juegos italianos</td>\n<td style=\"width: 17.6368%;\">CMN.7.1.a. Analizar relaciones de causalidad, simultaneidad y sucesión entre diferentes elementos del medio social y cultural de la Edad Media y la Edad Moderna, situando hechos en ejes cronológicos, para adoptar una actitud objetiva y analítica con respecto a la actualidad y para asumir un compromiso responsable y consciente con respecto a los retos del futuro.</td>\n<td style=\"width: 9.62638%;\">Grupos de 3</td>\n<td style=\"width: 11.9857%;\">1 sesión</td>\n<td style=\"width: 49.6307%;\">\n<p>Crear línea del tiempo con Genially</p>\n<p><a href=\"https://genially.com/es/crear/linea-de-tiempo/\">https://genially.com/es/crear/linea-de-tiempo/</a></p>\n<p><br /></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 11.1416%;\">12. Instrumentos musicales italianos</td>\n<td style=\"width: 17.6368%;\">EA.1.1.a. Distinguir propuestas artísticas de diferentes géneros, estilos, épocas y culturas y especialmente las relacionadas con la cultura andaluza, a través de la recepción activa y mostrando curiosidad y respeto por las mismas.</td>\n<td style=\"width: 9.62638%;\">Individual</td>\n<td style=\"width: 11.9857%;\">1 sesión</td>\n<td style=\"width: 49.6307%;\">\n<p>Cuadernillo</p>\n<p><a href=\"https://drive.google.com/drive/folders/1EUs1rfuoZfhLOnblRbET0rCtEek0Fa21\">https://drive.google.com/drive/folders/1EUs1rfuoZfhLOnblRbET0rCtEek0Fa21</a></p>\n<p><br /></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 11.1416%;\">13. Monedas romanas</td>\n<td style=\"width: 17.6368%;\">EA.3.2.a. Producir algunas propuestas para expresar con creatividad ideas, sentimientos y emociones a través de diversas manifestaciones artísticas, utilizando los diferentes lenguajes e instrumentos a su alcance, mostrando confianza en las propias capacidades y perfeccionando la ejecución.</td>\n<td style=\"width: 9.62638%;\">Individual</td>\n<td style=\"width: 11.9857%;\">1 sesión</td>\n<td style=\"width: 49.6307%;\">\n<p>Emocionario de aula</p>\n<p><a href=\"https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4/wish/R7dXadNlx31jZ6bl\">https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4/wish/R7dXadNlx31jZ6bl</a></p>\n<p><br /></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 11.1416%;\">14. Teatro de títeres de Pinocho</td>\n<td style=\"width: 17.6368%;\">EA.4.1.a. Planificar y diseñar, de manera guiada, producciones culturales y artísticas colectivas, trabajando de forma cooperativa en la consecución de un resultado final y asumiendo diferentes funciones, desde la igualdad y el respeto a la diversidad.</td>\n<td style=\"width: 9.62638%;\">Individual</td>\n<td style=\"width: 11.9857%;\">1 sesión</td>\n<td style=\"width: 49.6307%;\">\n<p>Recortables del cuadernillo</p>\n<p><a href=\"https://drive.google.com/drive/folders/1EUs1rfuoZfhLOnblRbET0rCtEek0Fa21\">https://drive.google.com/drive/folders/1EUs1rfuoZfhLOnblRbET0rCtEek0Fa21</a></p>\n<p><br /></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 11.1416%;\">15. Vocabulario básico italiano</td>\n<td style=\"width: 17.6368%;\">CMN.1.1.a. Utilizar recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura y adecuada, buscando información, comunicándose y trabajando de forma individual y en equipo, comenzando a realizar actividades en red, creando contenidos digitales sencillos, interpretando y organizando la información y aumentando la productividad y eficiencia en el propio trabajo. </td>\n<td style=\"width: 9.62638%;\">Por parejas</td>\n<td style=\"width: 11.9857%;\">1 sesión</td>\n<td style=\"width: 49.6307%;\">\n<p>Quizlet</p>\n<p><a href=\"https://quizlet.com/es/features/live\">https://quizlet.com/es/features/live</a></p>\n<p><br /></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 11.1416%;\">16. Comprensión lectora: Rómulo y Remo</td>\n<td style=\"width: 17.6368%;\">LCL.2.1.a. Comprender el sentido de textos orales y multimodales sencillos, reconociendo las ideas principales y los mensajes explícitos e implícitos, valorando con cierta autonomía su contenido y los elementos no verbales elementales y, de manera acompañada, algunos elementos formales elementales.</td>\n<td style=\"width: 9.62638%;\">Por parejas</td>\n<td style=\"width: 11.9857%;\">1 sesión</td>\n<td style=\"width: 49.6307%;\">\n<p>Canva</p>\n<p>Imagen del cómic </p>\n<p><a href=\"https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4\">https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4</a></p>\n<p><br /></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 11.1416%;\">17. Cómic de Pinocho</td>\n<td style=\"width: 17.6368%;\">LCL.3.1.a. Producir textos orales y multimodales de manera progresivamente autónoma, coherente y fluida, en contextos formales sencillos y utilizando correctamente recursos verbales y no verbales básicos.</td>\n<td style=\"width: 9.62638%;\">Por parejas</td>\n<td style=\"width: 11.9857%;\">1 sesión</td>\n<td style=\"width: 49.6307%;\">\n<p>Canva</p>\n<p>Imagen del cómic </p>\n<p>https://padlet.com/iferluc961/v-deo-semana-intercultural-o9nusgpgos3m8to4</p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778006854672-5h9lkvcvk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778006854672-5h9lkvcvk</odePageId>
+      <odeBlockId>block-1778006867137-pytwg7lyk</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778006854672-5h9lkvcvk</odePageId>
+          <odeBlockId>block-1778006867137-pytwg7lyk</odeBlockId>
+          <odeIdeviceId>idevice-1778006867135-3f1ehng8q</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>Un paseo por Italia</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>Proyecto destinado al alumnado de tercer ciclo de Primaria, basado en talleres creativos para conocer Italia de forma lúdica.</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Isabel Fernández Lucena</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td>creative commons: attribution - share alike 4.0</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
