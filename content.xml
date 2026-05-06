@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260505213509YYL5N4</value>
+    <value>20260505212213N00TEO</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260505213509AKTS54</value>
+    <value>20260505212213KE4360</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -24,7 +24,7 @@
 <odeProperties>
   <odeProperty>
     <key>pp_title</key>
-    <value>SdA Un paseo por Italia</value>
+    <value>Documento sin título</value>
   </odeProperty>
   <odeProperty>
     <key>pp_lang</key>
@@ -48,7 +48,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1778009126126</value>
+    <value>1777993905164</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -159,12 +159,12 @@
           <odeIdeviceId>idevice-1777998645527-lanvr8424</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/Dark Red and Beige Playful Illustrative Italy Travel Presentation.png" title="Un paseo por Italia-Imagen Canva" width="1360" height="765" alt="Un paseo por Italia-Imagen Canva" /></p>
+    <p><img src="asset://4bd88c50-57dc-5071-6661-7f1f2367ea3d.png" title="Un paseo por Italia-Imagen Canva" width="1360" height="765" alt="Un paseo por Italia-Imagen Canva" /></p>
 <p>La Situación de Aprendizaje Un paseo por Italia está dirigida al alumnado del tercer ciclo de Primaria y se desarrolla durante la Semana Intercultural. El proyecto busca que el alumnado explore la cultura italiana investigando geografía básica, símbolos nacionales, gastronomía, festividades, personajes históricos, arte, monumentos y literatura mientras trabaja competencias de búsqueda, síntesis y comunicación.</p>
 <p>A lo largo de seis sesiones, el alumnado crea materiales, participa en talleres y elabora un cuadernillo informativo. Se apoya en metodologías inclusivas (DUA), fomenta el trabajo cooperativo y termina con un producto final que consiste en una presentación mediante Canva sobre la Semana Intercultural.</p>
 <p> </p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777998645527-lanvr8424","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Dark Red and Beige Playful Illustrative Italy Travel Presentation.png\" title=\"Un paseo por Italia-Imagen Canva\" width=\"1360\" height=\"765\" alt=\"Un paseo por Italia-Imagen Canva\" /></p>\n<p>La Situación de Aprendizaje Un paseo por Italia está dirigida al alumnado del tercer ciclo de Primaria y se desarrolla durante la Semana Intercultural. El proyecto busca que el alumnado explore la cultura italiana investigando geografía básica, símbolos nacionales, gastronomía, festividades, personajes históricos, arte, monumentos y literatura mientras trabaja competencias de búsqueda, síntesis y comunicación.</p>\n<p>A lo largo de seis sesiones, el alumnado crea materiales, participa en talleres y elabora un cuadernillo informativo. Se apoya en metodologías inclusivas (DUA), fomenta el trabajo cooperativo y termina con un producto final que consiste en una presentación mediante Canva sobre la Semana Intercultural.</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777998645527-lanvr8424","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"asset://4bd88c50-57dc-5071-6661-7f1f2367ea3d.png\" title=\"Un paseo por Italia-Imagen Canva\" width=\"1360\" height=\"765\" alt=\"Un paseo por Italia-Imagen Canva\" /></p>\n<p>La Situación de Aprendizaje Un paseo por Italia está dirigida al alumnado del tercer ciclo de Primaria y se desarrolla durante la Semana Intercultural. El proyecto busca que el alumnado explore la cultura italiana investigando geografía básica, símbolos nacionales, gastronomía, festividades, personajes históricos, arte, monumentos y literatura mientras trabaja competencias de búsqueda, síntesis y comunicación.</p>\n<p>A lo largo de seis sesiones, el alumnado crea materiales, participa en talleres y elabora un cuadernillo informativo. Se apoya en metodologías inclusivas (DUA), fomenta el trabajo cooperativo y termina con un producto final que consiste en una presentación mediante Canva sobre la Semana Intercultural.</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -252,9 +252,9 @@
           <odeIdeviceId>idevice-1777994116055-0uilen9vp</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/Comenzamos nuestro proyecto SDA Un paseo por Italia.png" title="Descripción y justificación de la SdA" width="1360" height="1924" alt="Descripción y justificación de la SdA" /></p>
+    <p><img src="asset://f11c535a-61bc-29ed-e332-7d04e994650c.png" title="Descripción y justificación de la SdA" width="1360" height="1924" alt="Descripción y justificación de la SdA" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777994116055-0uilen9vp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Comenzamos nuestro proyecto SDA Un paseo por Italia.png\" title=\"Descripción y justificación de la SdA\" width=\"1360\" height=\"1924\" alt=\"Descripción y justificación de la SdA\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777994116055-0uilen9vp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"asset://f11c535a-61bc-29ed-e332-7d04e994650c.png\" title=\"Descripción y justificación de la SdA\" width=\"1360\" height=\"1924\" alt=\"Descripción y justificación de la SdA\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -310,9 +310,9 @@
           <odeIdeviceId>idevice-1777994914198-todw0uq38</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/Copia de Copia de Infografía decálogo pasos a seguir con íconos en 3D fondo morado elementos multicolor (1).png" title="Infografía sobre la protección de datos" width="800" height="2000" alt="Protección de datos personales y garantía de derechos digitales" /></p>
+    <p><img src="asset://7ec4a772-6503-9b3e-69dd-4b43d40470c0.png" title="Infografía sobre la protección de datos" width="800" height="2000" alt="Protección de datos personales y garantía de derechos digitales" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777994914198-todw0uq38","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Copia de Copia de Infografía decálogo pasos a seguir con íconos en 3D fondo morado elementos multicolor (1).png\" title=\"Infografía sobre la protección de datos\" width=\"800\" height=\"2000\" alt=\"Protección de datos personales y garantía de derechos digitales\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777994914198-todw0uq38","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"asset://7ec4a772-6503-9b3e-69dd-4b43d40470c0.png\" title=\"Infografía sobre la protección de datos\" width=\"800\" height=\"2000\" alt=\"Protección de datos personales y garantía de derechos digitales\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -500,9 +500,9 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p><a href="https://padlet.com/iferluc961/video-semana-intercultural-o9nusgpgos3m8to4" title="Padlet Un paseo por Italia">https://padlet.com/iferluc961/video-semana-intercultural-o9nusgpgos3m8to4</a></p>
-<p><img src="{{context_path}}/content/resources/Padlet proyecto Italia.png" width="1345" height="605" alt="Padlet Un paseo por Italia" /></p>
+<p><img src="asset://7c255d2f-8bcf-79d5-fa9e-bdf19e6e3f8b.png" width="1345" height="605" alt="Padlet Un paseo por Italia" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777997946042-9dr0vjgng","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://padlet.com/iferluc961/video-semana-intercultural-o9nusgpgos3m8to4\" title=\"Padlet Un paseo por Italia\">https://padlet.com/iferluc961/video-semana-intercultural-o9nusgpgos3m8to4</a></p>\n<p><img src=\"{{context_path}}/content/resources/Padlet proyecto Italia.png\" width=\"1345\" height=\"605\" alt=\"Padlet Un paseo por Italia\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777997946042-9dr0vjgng","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://padlet.com/iferluc961/video-semana-intercultural-o9nusgpgos3m8to4\" title=\"Padlet Un paseo por Italia\">https://padlet.com/iferluc961/video-semana-intercultural-o9nusgpgos3m8to4</a></p>\n<p><img src=\"asset://7c255d2f-8bcf-79d5-fa9e-bdf19e6e3f8b.png\" width=\"1345\" height=\"605\" alt=\"Padlet Un paseo por Italia\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -559,9 +559,9 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p><a href="https://www.symbaloo.com/home/mix/13ePH26iZK" title="Symbaloo para maestros">https://www.symbaloo.com/home/mix/13ePH26iZK</a></p>
-<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 175956.png" width="1043" height="600" alt="Symbaloo para maestros" /></p>
+<p><img src="asset://9742018a-dd09-f77c-88cf-5d9deb957061.png" width="1043" height="600" alt="Symbaloo para maestros" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777998047801-gubklzifr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/home/mix/13ePH26iZK\" title=\"Symbaloo para maestros\">https://www.symbaloo.com/home/mix/13ePH26iZK</a></p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 175956.png\" width=\"1043\" height=\"600\" alt=\"Symbaloo para maestros\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777998047801-gubklzifr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/home/mix/13ePH26iZK\" title=\"Symbaloo para maestros\">https://www.symbaloo.com/home/mix/13ePH26iZK</a></p>\n<p><img src=\"asset://9742018a-dd09-f77c-88cf-5d9deb957061.png\" width=\"1043\" height=\"600\" alt=\"Symbaloo para maestros\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -617,9 +617,9 @@
           <odeIdeviceId>idevice-1777995876190-73f9xpp5m</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/1.png" title="Secuencia de actividades" width="1360" height="765" alt="Secuenciación de actividades" /><img src="{{context_path}}/content/resources/2.png" title="Tareas" width="1360" height="765" alt="Descripción de las actividades" /><img src="{{context_path}}/content/resources/3.png" title="Actividades Pautas DUA" width="1360" height="765" alt="Actividades de atención a la diversidad" /></p>
+    <p><img src="asset://80e916a4-30ee-e05b-08f9-3f48355105d4.png" title="Secuencia de actividades" width="1360" height="765" alt="Secuenciación de actividades" /><img src="asset://aae1e1ea-358f-20d8-4685-d7353361d831.png" title="Tareas" width="1360" height="765" alt="Descripción de las actividades" /><img src="asset://bb8c805b-4c88-d2c0-fd9a-1a44f5a65802.png" title="Actividades Pautas DUA" width="1360" height="765" alt="Actividades de atención a la diversidad" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995876190-73f9xpp5m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/1.png\" title=\"Secuencia de actividades\" width=\"1360\" height=\"765\" alt=\"Secuenciación de actividades\" /><img src=\"{{context_path}}/content/resources/2.png\" title=\"Tareas\" width=\"1360\" height=\"765\" alt=\"Descripción de las actividades\" /><img src=\"{{context_path}}/content/resources/3.png\" title=\"Actividades Pautas DUA\" width=\"1360\" height=\"765\" alt=\"Actividades de atención a la diversidad\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995876190-73f9xpp5m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"asset://80e916a4-30ee-e05b-08f9-3f48355105d4.png\" title=\"Secuencia de actividades\" width=\"1360\" height=\"765\" alt=\"Secuenciación de actividades\" /><img src=\"asset://aae1e1ea-358f-20d8-4685-d7353361d831.png\" title=\"Tareas\" width=\"1360\" height=\"765\" alt=\"Descripción de las actividades\" /><img src=\"asset://bb8c805b-4c88-d2c0-fd9a-1a44f5a65802.png\" title=\"Actividades Pautas DUA\" width=\"1360\" height=\"765\" alt=\"Actividades de atención a la diversidad\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -822,10 +822,10 @@
           <odeIdeviceId>idevice-1777999826638-psyxk7vwm</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/1_1.png" width="1360" height="962" alt="Descripción de la rúbrica" /></p>
-<p><img src="{{context_path}}/content/resources/2_1.png" width="1360" height="962" alt="Detalle de la rúbrica" /></p>
+    <p><img src="asset://8bea109b-ec56-e7a2-6f83-250934586ca0" width="1360" height="962" alt="Descripción de la rúbrica" /></p>
+<p><img src="asset://65f5a935-54b4-f738-8e43-da9837d48b1e" width="1360" height="962" alt="Detalle de la rúbrica" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777999826638-psyxk7vwm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/1_1.png\" width=\"1360\" height=\"962\" alt=\"Descripción de la rúbrica\" /></p>\n<p><img src=\"{{context_path}}/content/resources/2_1.png\" width=\"1360\" height=\"962\" alt=\"Detalle de la rúbrica\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777999826638-psyxk7vwm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"asset://8bea109b-ec56-e7a2-6f83-250934586ca0\" width=\"1360\" height=\"962\" alt=\"Descripción de la rúbrica\" /></p>\n<p><img src=\"asset://65f5a935-54b4-f738-8e43-da9837d48b1e\" width=\"1360\" height=\"962\" alt=\"Detalle de la rúbrica\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -881,11 +881,11 @@
           <odeIdeviceId>idevice-1777999890221-qdezdmgb9</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/3_1.png" title="Características del portfolio" width="1360" height="962" alt="Características del portfolio" /></p>
-<p><img src="{{context_path}}/content/resources/4.png" title="Estructura del portfolio" width="1360" height="962" alt="Estructura del portfolio" /></p>
-<p><img src="{{context_path}}/content/resources/5.png" title="Procedimiento del portfolio" width="1360" height="962" alt="Procedimiento del portfolio" /></p>
+    <p><img src="asset://515b872c-1384-1050-ab29-c4f346e4dd83.png" title="Características del portfolio" width="1360" height="962" alt="Características del portfolio" /></p>
+<p><img src="asset://1f08b484-57f4-d557-905c-506d14da4810.png" title="Estructura del portfolio" width="1360" height="962" alt="Estructura del portfolio" /></p>
+<p><img src="asset://a6a5a637-60c0-9a65-0041-45d35972a76f.png" title="Procedimiento del portfolio" width="1360" height="962" alt="Procedimiento del portfolio" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777999890221-qdezdmgb9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/3_1.png\" title=\"Características del portfolio\" width=\"1360\" height=\"962\" alt=\"Características del portfolio\" /></p>\n<p><img src=\"{{context_path}}/content/resources/4.png\" title=\"Estructura del portfolio\" width=\"1360\" height=\"962\" alt=\"Estructura del portfolio\" /></p>\n<p><img src=\"{{context_path}}/content/resources/5.png\" title=\"Procedimiento del portfolio\" width=\"1360\" height=\"962\" alt=\"Procedimiento del portfolio\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777999890221-qdezdmgb9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"asset://515b872c-1384-1050-ab29-c4f346e4dd83.png\" title=\"Características del portfolio\" width=\"1360\" height=\"962\" alt=\"Características del portfolio\" /></p>\n<p><img src=\"asset://1f08b484-57f4-d557-905c-506d14da4810.png\" title=\"Estructura del portfolio\" width=\"1360\" height=\"962\" alt=\"Estructura del portfolio\" /></p>\n<p><img src=\"asset://a6a5a637-60c0-9a65-0041-45d35972a76f.png\" title=\"Procedimiento del portfolio\" width=\"1360\" height=\"962\" alt=\"Procedimiento del portfolio\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>

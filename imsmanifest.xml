@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-mot0m1j9rmcls"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-mot0m1j9rmcls">
+    <organization identifier="eXe-mot0m1j9rmcls" structure="hierarchical">
+      <title>Documento sin título</title>
+      <item identifier="ITEM-7b5d29d9-8912-4509-bc01-855ac8474829" identifierref="RES-7b5d29d9-8912-4509-bc01-855ac8474829" isvisible="true">
+        <title>SdA Un paseo por Italia</title>
+      </item>
+      <item identifier="ITEM-page-1777993935072-4i9c2ofqj" identifierref="RES-page-1777993935072-4i9c2ofqj" isvisible="true">
+        <title>Presentación y descripción</title>
+      </item>
+      <item identifier="ITEM-page-1777994007641-o4yq1x0cf" identifierref="RES-page-1777994007641-o4yq1x0cf" isvisible="true">
+        <title>Protección de datos</title>
+      </item>
+      <item identifier="ITEM-page-1777994027679-75qzkp5z3" identifierref="RES-page-1777994027679-75qzkp5z3" isvisible="true">
+        <title>Producto final</title>
+      </item>
+      <item identifier="ITEM-page-1777994054935-dqkrnnh88" identifierref="RES-page-1777994054935-dqkrnnh88" isvisible="true">
+        <title>Herramientas de contenido</title>
+        <item identifier="ITEM-page-1777997046958-yhwwf64wp" identifierref="RES-page-1777997046958-yhwwf64wp" isvisible="true">
+          <title>Padlet Un paseo por Italia</title>
+        </item>
+        <item identifier="ITEM-page-1777997072411-jb3p1qunp" identifierref="RES-page-1777997072411-jb3p1qunp" isvisible="true">
+          <title>Symbaloo para maestros</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-1777994070775-6h3yqfbxd" identifierref="RES-page-1777994070775-6h3yqfbxd" isvisible="true">
+        <title>Línea temporal</title>
+      </item>
+      <item identifier="ITEM-page-1777994083487-kiktrxiaa" identifierref="RES-page-1777994083487-kiktrxiaa" isvisible="true">
+        <title>Criterios de evaluación</title>
+      </item>
+      <item identifier="ITEM-page-1777994105384-hr705phac" identifierref="RES-page-1777994105384-hr705phac" isvisible="true">
+        <title>Instrumentos de evaluación</title>
+        <item identifier="ITEM-page-1777999762790-1oics6f7z" identifierref="RES-page-1777999762790-1oics6f7z" isvisible="true">
+          <title>Rúbrica de evaluación</title>
+        </item>
+        <item identifier="ITEM-page-1777999773325-jr0je2slh" identifierref="RES-page-1777999773325-jr0je2slh" isvisible="true">
+          <title>Portfolio</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-1778003306135-kmetx6xvi" identifierref="RES-page-1778003306135-kmetx6xvi" isvisible="true">
+        <title>Guía didáctica</title>
+        <item identifier="ITEM-page-1778004367409-4wnw8uzet" identifierref="RES-page-1778004367409-4wnw8uzet" isvisible="true">
+          <title>Tareas asociadas a criterios de evaluación</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-1778006854672-5h9lkvcvk" identifierref="RES-page-1778006854672-5h9lkvcvk" isvisible="true">
+        <title>Créditos</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-7b5d29d9-8912-4509-bc01-855ac8474829" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1777993935072-4i9c2ofqj" type="webcontent" adlcp:scormtype="sco" href="html/presentacion-y-descripcion.html">
+      <file href="html/presentacion-y-descripcion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1777994007641-o4yq1x0cf" type="webcontent" adlcp:scormtype="sco" href="html/proteccion-de-datos.html">
+      <file href="html/proteccion-de-datos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1777994027679-75qzkp5z3" type="webcontent" adlcp:scormtype="sco" href="html/producto-final.html">
+      <file href="html/producto-final.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1777994054935-dqkrnnh88" type="webcontent" adlcp:scormtype="sco" href="html/herramientas-de-contenido.html">
+      <file href="html/herramientas-de-contenido.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1777997046958-yhwwf64wp" type="webcontent" adlcp:scormtype="sco" href="html/padlet-un-paseo-por-italia.html">
+      <file href="html/padlet-un-paseo-por-italia.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1777997072411-jb3p1qunp" type="webcontent" adlcp:scormtype="sco" href="html/symbaloo-para-maestros.html">
+      <file href="html/symbaloo-para-maestros.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1777994070775-6h3yqfbxd" type="webcontent" adlcp:scormtype="sco" href="html/linea-temporal.html">
+      <file href="html/linea-temporal.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1777994083487-kiktrxiaa" type="webcontent" adlcp:scormtype="sco" href="html/criterios-de-evaluacion.html">
+      <file href="html/criterios-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1777994105384-hr705phac" type="webcontent" adlcp:scormtype="sco" href="html/instrumentos-de-evaluacion.html">
+      <file href="html/instrumentos-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1777999762790-1oics6f7z" type="webcontent" adlcp:scormtype="sco" href="html/rubrica-de-evaluacion.html">
+      <file href="html/rubrica-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1777999773325-jr0je2slh" type="webcontent" adlcp:scormtype="sco" href="html/portfolio.html">
+      <file href="html/portfolio.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1778003306135-kmetx6xvi" type="webcontent" adlcp:scormtype="sco" href="html/guia-didactica.html">
+      <file href="html/guia-didactica.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1778004367409-4wnw8uzet" type="webcontent" adlcp:scormtype="sco" href="html/tareas-asociadas-a-criterios-de-evaluacion.html">
+      <file href="html/tareas-asociadas-a-criterios-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1778006854672-5h9lkvcvk" type="webcontent" adlcp:scormtype="sco" href="html/creditos.html">
+      <file href="html/creditos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/img/exe_powered_logo.png"/>
+      <file href="content/resources/1.png"/>
+      <file href="content/resources/1_1.png"/>
+      <file href="content/resources/1f08b484-57f4-d557-905c-506d14da4810.png"/>
+      <file href="content/resources/2.png"/>
+      <file href="content/resources/2_1.png"/>
+      <file href="content/resources/3.png"/>
+      <file href="content/resources/36125495-7fda-02e0-c076-6a5d0c2564aa.pdf"/>
+      <file href="content/resources/3_1.png"/>
+      <file href="content/resources/4.png"/>
+      <file href="content/resources/41182b9e-ffd6-b0c2-2297-db7c78ab5588.png"/>
+      <file href="content/resources/4bd88c50-57dc-5071-6661-7f1f2367ea3d.png"/>
+      <file href="content/resources/5.png"/>
+      <file href="content/resources/515b872c-1384-1050-ab29-c4f346e4dd83.png"/>
+      <file href="content/resources/65f5a935-54b4-f738-8e43-da9837d48b1e.png"/>
+      <file href="content/resources/7c255d2f-8bcf-79d5-fa9e-bdf19e6e3f8b.png"/>
+      <file href="content/resources/7ec4a772-6503-9b3e-69dd-4b43d40470c0.png"/>
+      <file href="content/resources/80e916a4-30ee-e05b-08f9-3f48355105d4.png"/>
+      <file href="content/resources/8bea109b-ec56-e7a2-6f83-250934586ca0.png"/>
+      <file href="content/resources/9742018a-dd09-f77c-88cf-5d9deb957061.png"/>
+      <file href="content/resources/Captura de pantalla 2026-05-05 175956.png"/>
+      <file href="content/resources/Captura de pantalla 2026-05-05 193903.png"/>
+      <file href="content/resources/Comenzamos nuestro proyecto SDA Un paseo por Italia.png"/>
+      <file href="content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf"/>
+      <file href="content/resources/Copia de Copia de Infografía decálogo pasos a seguir con íconos en 3D fondo morado elementos multicolor (1).png"/>
+      <file href="content/resources/Dark Red and Beige Playful Illustrative Italy Travel Presentation.png"/>
+      <file href="content/resources/Padlet proyecto Italia.png"/>
+      <file href="content/resources/a6a5a637-60c0-9a65-0041-45d35972a76f.png"/>
+      <file href="content/resources/aae1e1ea-358f-20d8-4685-d7353361d831.png"/>
+      <file href="content/resources/bb8c805b-4c88-d2c0-fd9a-1a44f5a65802.png"/>
+      <file href="content/resources/f11c535a-61bc-29ed-e332-7d04e994650c.png"/>
+      <file href="idevices/download-source-file/download-package-licenses.png"/>
+      <file href="idevices/download-source-file/download-source-file.css"/>
+      <file href="idevices/download-source-file/download-source-file.js"/>
+      <file href="idevices/download-source-file/exequextsq.svg"/>
+      <file href="idevices/external-website/exequextsq.svg"/>
+      <file href="idevices/external-website/external-website.css"/>
+      <file href="idevices/external-website/external-website.js"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/elpx-manifest.js"/>
+      <file href="libs/exe_elpx_download/exe_elpx_download.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/fflate/fflate.umd.js"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/icons/activity.png"/>
+      <file href="theme/icons/agreement.png"/>
+      <file href="theme/icons/alert.png"/>
+      <file href="theme/icons/arts.png"/>
+      <file href="theme/icons/ask.png"/>
+      <file href="theme/icons/book.png"/>
+      <file href="theme/icons/calculate.png"/>
+      <file href="theme/icons/case.png"/>
+      <file href="theme/icons/chrono.png"/>
+      <file href="theme/icons/collaborative.png"/>
+      <file href="theme/icons/competencies.png"/>
+      <file href="theme/icons/diary.png"/>
+      <file href="theme/icons/diary_alt.png"/>
+      <file href="theme/icons/discuss.png"/>
+      <file href="theme/icons/download.png"/>
+      <file href="theme/icons/draw.png"/>
+      <file href="theme/icons/english.png"/>
+      <file href="theme/icons/experiment.png"/>
+      <file href="theme/icons/explore.png"/>
+      <file href="theme/icons/file.png"/>
+      <file href="theme/icons/gallery.png"/>
+      <file href="theme/icons/geography.png"/>
+      <file href="theme/icons/guide.png"/>
+      <file href="theme/icons/history.png"/>
+      <file href="theme/icons/info.png"/>
+      <file href="theme/icons/interactive.png"/>
+      <file href="theme/icons/letters.png"/>
+      <file href="theme/icons/listen.png"/>
+      <file href="theme/icons/math.png"/>
+      <file href="theme/icons/music.png"/>
+      <file href="theme/icons/nature.png"/>
+      <file href="theme/icons/objectives.png"/>
+      <file href="theme/icons/observe.png"/>
+      <file href="theme/icons/passport.png"/>
+      <file href="theme/icons/perform.png"/>
+      <file href="theme/icons/piece.png"/>
+      <file href="theme/icons/pieces.png"/>
+      <file href="theme/icons/play.png"/>
+      <file href="theme/icons/present.png"/>
+      <file href="theme/icons/reflection.png"/>
+      <file href="theme/icons/roadmap.png"/>
+      <file href="theme/icons/share.png"/>
+      <file href="theme/icons/sport.png"/>
+      <file href="theme/icons/start.png"/>
+      <file href="theme/icons/stop.png"/>
+      <file href="theme/icons/suitcase.png"/>
+      <file href="theme/icons/technology.png"/>
+      <file href="theme/icons/think.png"/>
+      <file href="theme/icons/think_alt.png"/>
+      <file href="theme/icons/video.png"/>
+      <file href="theme/img/icons.png"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>
